@@ -1,5 +1,4 @@
 # Shopping_Trends_Analysis using SQL
-# Shopping Trends Analysis using SQL
 
 Welcome to the Shopping Trends Analysis project! This repository contains SQL scripts and related documentation for analyzing shopping behavior, sales trends, and customer spending amount using a dataset from kaggle.
 
