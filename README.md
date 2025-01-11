@@ -21,10 +21,10 @@ Understanding shopping trends is critical for businesses to optimize their marke
 - **Interactive Dashboards**: Insights can be visualized in tools like Power BI or Tableau (optional).
 
 ## Data Sources
-- <a href = "https://github.com/abebag2022/Shopping_trend_Analysis/blob/main/shopping_trends.csv
+- <a href = "https://github.com/abebag2022/Shopping_trend_Analysis/blob/main/shopping_trends.csv"
 
 ## SQL file
-- <a href = "https://github.com/abebag2022/Shopping_trend_Analysis/blob/main/new%20Project%20SQL258.sql
+- <a href = "https://github.com/abebag2022/Shopping_trend_Analysis/blob/main/new%20Project%20SQL258.sql"
 
 ## Technologies Used
 
